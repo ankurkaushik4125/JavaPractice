@@ -1,0 +1,19 @@
+package practice;
+
+public class PrintOneToTenWhileDecremnt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int i=10;
+		while(i>=1)
+			
+		{
+			i--;	
+			System.out.println(i);
+	
+		}
+
+	}
+
+}
